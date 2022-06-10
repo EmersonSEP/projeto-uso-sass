@@ -1,6 +1,8 @@
 # Uso do SASS
 
-Nestre projeto apliquei os conhecimentos adquiridos na Rocketseat para a utilização do SASS neste site.
+Nestre projeto apliquei os conhecimentos adquiridos na Rocketseat para a utilização do SASS neste codigo.
+
+link : https://emersonsep.github.io/projeto-uso-sass/
 
 
 ## CSS Units
